@@ -15,7 +15,7 @@ Future features include:
 
 Although I don't outright copy code, I have learned a lot from the following mod authors' code and have decided to license accordingly:
 
-ialdabaoth - Deadly Reentry and Modular Fuel System
-TaranisElsu - TAC Life Support
+- ialdabaoth: Deadly Reentry and Modular Fuel System
+- TaranisElsu: TAC Life Support
 
 And, of course, thanks to #kspmodders for letting me bug them with dumb newbie questions.
